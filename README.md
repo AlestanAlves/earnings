@@ -1,5 +1,4 @@
-# earnings
-Earnings - Ganhos em Competições  🏆
+# Earnings - Ganhos em Competições  🏆
 
 - 1º Hackathon Dockercon 2021
 - 2º Disrupt FIAP 2021 
